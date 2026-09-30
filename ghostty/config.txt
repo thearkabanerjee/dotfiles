@@ -1,0 +1,16 @@
+font-family = JetBrains Mono Nerd Font
+font-size = 16
+
+window-width = 151
+window-height = 36
+
+theme = ayu
+
+
+
+# Transparent background
+background-opacity = 0.90
+
+
+# background-image=/path/to/image.png
+# background-image-opacity = 0.15
