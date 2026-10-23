@@ -14,3 +14,5 @@ background-opacity = 0.90
 
 # background-image=/path/to/image.png
 # background-image-opacity = 0.15
+
+adjust-cell-height = 10%
